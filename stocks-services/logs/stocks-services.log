@@ -36,3 +36,5 @@
 2022-08-08 16:35:18.499  INFO 27588 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found {0} custom documentation plugin(s)
 2022-08-08 16:35:18.505  INFO 27588 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
 2022-08-08 16:35:18.541  INFO 27588 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/api/stock-data'
+2022-08-08 16:35:18.544  INFO 27588 --- [restartedMain] com.stocks.Application                   : Started Application in 3.955 seconds (JVM running for 4.699)
+2022-08-08 16:35:18.547  INFO 27588 --- [restartedMain] com.stocks.Application                   : ----------------Application Started----------
